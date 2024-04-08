@@ -20,6 +20,7 @@ const luisgrana2 = {
 
 ## You can finde me 🌍:
 - [Linkedin](https://www.linkedin.com/in/luis-granados-segura-099290222/)
+  - Latest post: []()
 <!--
 **luisgrana2/luisgrana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
