@@ -3,6 +3,7 @@
 
 
 ## About me in Code:
+```
 const luisgrana2 = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -15,6 +16,7 @@ const luisgrana2 = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
 
 ## You can finde me 🌍:
 - [Linkedin](https://www.linkedin.com/in/luis-granados-segura-099290222/)
