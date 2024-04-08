@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi, I'm Luis 👋🧑‍💻
+![Untitled](https://github.com/luisgrana2/luisgrana2/assets/143428761/ed5eb87f-211a-4ba6-a4bd-41b1e1e75358)
+You can finde me 🌍:
+- [Linkedin](https://www.linkedin.com/in/luis-granados-segura-099290222/)
+<!--
 
+const luisgrana2 = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+-->
 <!--
 **luisgrana2/luisgrana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
