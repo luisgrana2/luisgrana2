@@ -12,7 +12,7 @@
 
 ## About me in Code:
 
-```python
+```javascript
 const luisgrana2 = {
   code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
   interests: [Robotics, Computer Vision,
@@ -22,7 +22,10 @@ const luisgrana2 = {
               Pastry Dough Quality"
 }
 ```
-<div>
-  <img align="left" alt="img" src="img/giphy.gif" width="34%" height="auto" />
-  <img align="right" alt="img" src="animation.svg" width="63%" height="auto" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <img style="max-width: 45%; height: auto; margin-right: 5px;" alt="img" src="img/giphy.gif">
+
+  <img style="max-width: 45%; height: auto;" alt="img" src="animation.svg">
+
 </div>
