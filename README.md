@@ -16,13 +16,13 @@
 const luisgrana2 = {
   code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
   interests: [Robotics, Computer Vision,
-              SLAM, Automatic Control]
+              SLAM, Automatic Control],
   challenge: "Finishing my master's thesis in Enhancing
               Modeling and Motion Analysis for Industrial
               Pastry Dough Quality"
 }
 ```
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; >
 
   <img align="left" style="width: 30%; max-width: 30%; height: auto; margin-right: 5px;" alt="img" src="img/giphy.gif">
 
