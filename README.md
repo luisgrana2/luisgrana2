@@ -1,6 +1,6 @@
-<div style="position: relative;">
+<div style="display: flex;">
   <img src="img/Slide1.JPG" alt="Banner" style="width: 100%; height: auto;">
-  <img src="img/profile-picture.png" alt="Profile Picture" style="position: absolute; top: 200px; right: 20px; width: 20%; height: auto;">
+  <img src="img/profile-picture.png" alt="Profile Picture" style="width: 20%; height: auto;">
 </div>
 
 
@@ -22,11 +22,8 @@ const luisgrana2 = {
               Pastry Dough Quality"
 }
 ```
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; >
 
-  <img align="left" style="width: 30%; max-width: 30%; height: auto; margin-right: 5px;" alt="img" src="img/giphy.gif">
-
-  <img align="right" style="width: 60%; max-width: 60%; height: auto;" alt="img" src="animation.svg">
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img align="left" style="width: 70%; height: auto;" alt="img" src="img/giphy.gif">
+  <img align="right" style="width: 60%; height: auto;" alt="img" src="animation.svg">
 </div>
-
