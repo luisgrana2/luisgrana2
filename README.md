@@ -12,8 +12,12 @@
 ```
 const luisgrana2 = {
   code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
-  interests: [Robotics, Computer Vision, SLAM, Automatic Control]
-  challenge: "Finishing my master's thesis in Enhancing Modeling and Motion Analysis for Industrial Pastry Dough Quality"
+  interests: [Robotics, Computer Vision,
+              SLAM, Automatic Control]
+  challenge: "Finishing my master's thesis
+              in Enhancing Modeling and Motion
+              Analysis for Industrial Pastry
+              Dough Quality"
 }
 ```
 <img align="right" alt="img" src="animation.svg" width="50%" height="auto" />
