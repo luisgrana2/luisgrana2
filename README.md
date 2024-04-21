@@ -1,37 +1,21 @@
-### Hi, I'm Luis 👋🧑‍💻
-![Untitled](https://github.com/luisgrana2/luisgrana2/assets/143428761/ed5eb87f-211a-4ba6-a4bd-41b1e1e75358)
-![BannerProfile](https://github.com/luisgrana2/luisgrana2/assets/143428761/1b505a4b-b69f-46ce-bbf4-c5722a724b9a)
+![Banner](img/banner.png)
 
+### Hi, I'm Luis 👋🧑‍💻
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisgrana2)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-granados-segura-099290222/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lgsgranados@gmail.com)
+<p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
 
 ## About me in Code:
+<img align="right" alt="img" src="img/giphy.gif" width="50%" height="auto" />
+
 ```
 const luisgrana2 = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
+  interests: [Robotics, Computer Vision, SLAM, Automatic Control]
+  challenge: "Finishing my master's thesis in Enhancing Modeling and Motion Analysis for Industrial Pastry Dough Quality"
 }
 ```
+<img align="right" alt="img" src="animation.svg" width="50%" height="auto" />
 
-## You can finde me 🌍:
-- [Linkedin](https://www.linkedin.com/in/luis-granados-segura-099290222/)
-  - Latest post: []()
-<!--
-**luisgrana2/luisgrana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Animation](animation.svg) -->
