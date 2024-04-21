@@ -2,10 +2,20 @@
 
 
 ### Hi, I'm Luis ‍👋🧑‍💻
+<img align="right" style="width: 50%; height: auto;" alt="img" src="img/giphy.gif">
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisgrana2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-granados-segura-099290222/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lgsgranados@gmail.com)
+
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
+
+
+
+
+
+
+
 
 ## About me in Code:
 
@@ -16,9 +26,6 @@ const luisgrana2 = {
   challenge: "Finishing my master's thesis in Enhancing Modeling and Motion Analysis for Industrial Pastry Dough Quality"
 }
 ```
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img style="width: 290px; height: auto;" alt="img" src="img/giphy.gif">
-  <img style="width: 536px; height: auto;" alt="img" src="animation.svg">
-</div>
+  
+  <img style="width: 100%; height: auto;" alt="img" src="animation.svg">
 
