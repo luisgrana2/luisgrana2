@@ -1,5 +1,5 @@
 <div style="position: relative;">
-  <img src="img/Slide1.jpg" alt="Banner" style="width: 100%; height: auto;">
+  <img src="img/Slide1.JPG" alt="Banner" style="width: 100%; height: auto;">
   <img src="img/profile-picture.png" alt="Profile Picture" style="position: absolute; top: 200px; right: 20px; width: 20%; height: auto;">
 </div>
 
