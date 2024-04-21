@@ -12,7 +12,7 @@
 
 ## About me in Code:
 
-```
+```python
 const luisgrana2 = {
   code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
   interests: [Robotics, Computer Vision,
