@@ -22,6 +22,6 @@ const luisgrana2 = {
               Pastry Dough Quality"
 }
 ```
-<img align="left" alt="img" src="img/giphy.gif" width="34%" height="auto" />
+<img align="left" alt="img" src="img/giphy.gif" width="30%" height="auto" />
 
-<img align="right" alt="img" src="animation.svg" width="64%" height="auto" />
+<img align="right" alt="img" src="animation.svg" width="60%" height="auto" />
