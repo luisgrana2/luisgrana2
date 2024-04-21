@@ -23,7 +23,7 @@ const luisgrana2 = {
 }
 ```
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div>
   <img align="left" style="width: 60%; height: auto;" alt="img" src="img/giphy.gif">
   <img align="right" style="width: 60%; height: auto;" alt="img" src="animation.svg">
 </div>
