@@ -25,5 +25,5 @@ const luisgrana2 = {
 <div>
 <img align="left" alt="img" src="img/giphy.gif" width="34%" height="auto" />
 
-<img align="right" alt="img" src="animation.svg" width="65%" height="auto" />
+<img align="right" alt="img" src="animation.svg" width="64%" height="auto" />
 </div>
