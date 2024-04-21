@@ -1,7 +1,5 @@
-<div style="position: relative;">
-  <img src="img/Slide1.jpg" alt="Banner" style="width: 100%; height: auto;">
-  <img src="img/profile-picture.png" alt="Profile Picture" style="position: absolute; top: 200px; right: 20px; width: 20%; height: auto;">
-</div>
+<img src="img/Slide1.JPG" alt="Banner" style="width: 100%; height: auto;">
+<img src="img/profile-picture.png" alt="Profile Picture" style="position: absolute; top: 200px; right: 20px; width: 20%; height: auto;">
 
 
 ### Hi, I'm Luis 👋🧑‍💻
@@ -11,7 +9,6 @@
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
 
 ## About me in Code:
-
 
 ```
 const luisgrana2 = {
@@ -23,6 +20,6 @@ const luisgrana2 = {
               Pastry Dough Quality"
 }
 ```
-<img align="left" alt="img" src="img/giphy.gif" width="35%" height="auto" />
+<img align="left" alt="img" src="img/giphy.gif" width="34%" height="auto" />
 
-<img align="right" alt="img" src="animation.svg" width="65%" height="auto" />
+<img align="right" alt="img" src="animation.svg" width="64%" height="auto" />
