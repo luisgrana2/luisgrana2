@@ -1,10 +1,7 @@
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="img/Slide1.JPG" alt="Banner" style="width: 100%; height: auto;">
-  <img src="img/profile-picture.png" alt="Profile Picture" style="width: 20%; height: auto;">
-</div>
+![Banner](https://github.com/luisgrana2/luisgrana2/assets/143428761/1d5c651b-e895-413e-8e1f-5d84d5956df2)
 
 
-### Hi, I'm Luis ‍
+### Hi, I'm Luis ‍👋🧑‍💻
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisgrana2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-granados-segura-099290222/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lgsgranados@gmail.com)
@@ -21,7 +18,7 @@ const luisgrana2 = {
 ```
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img style="width: 271px; height: auto;" alt="img" src="img/giphy.gif">
-  <img style="max-width: 60%; height: auto;" alt="img" src="animation.svg">
+  <img style="width: 355px; height: auto;" alt="img" src="img/giphy.gif">
+  <img style="width: 651px; height: auto;" alt="img" src="animation.svg">
 </div>
 
