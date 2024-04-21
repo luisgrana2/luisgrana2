@@ -14,14 +14,13 @@
 
 ```javascript
 const luisgrana2 = {
-  code: [Python, C++, Arduino, ROS, ROS2, HTML, CSS],
-  interests: [Robotics, Computer Vision,
-              SLAM, Automatic Control],
+  code: ["Python", "C++", "Arduino", "ROS", "ROS2", "HTML", "CSS"],
+  interests: ["Robotics", "Computer Vision", "SLAM", "Automatic Control"],
   challenge: "Finishing my master's thesis in Enhancing Modeling and Motion Analysis for Industrial Pastry Dough Quality"
 }
 ```
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 0 auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img style="width: 271px; height: auto;" alt="img" src="img/giphy.gif">
   <img style="max-width: 60%; height: auto;" alt="img" src="animation.svg">
 </div>
