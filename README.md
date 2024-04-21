@@ -11,13 +11,6 @@
 
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
 
-
-
-
-
-
-
-
 ## About me in Code:
 
 ```javascript
