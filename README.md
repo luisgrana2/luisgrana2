@@ -1,11 +1,11 @@
 ### Hi, I'm Luis 👋🧑‍💻
 ![Untitled](https://github.com/luisgrana2/luisgrana2/assets/143428761/ed5eb87f-211a-4ba6-a4bd-41b1e1e75358)
+![BannerProfile](https://github.com/luisgrana2/luisgrana2/assets/143428761/1b505a4b-b69f-46ce-bbf4-c5722a724b9a)
 
 
 ## About me in Code:
 ```
 const luisgrana2 = {
-  pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
