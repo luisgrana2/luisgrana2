@@ -20,6 +20,6 @@ const luisgrana2 = {
               Dough Quality"
 }
 ```
-<img align="right" alt="img" src="animation.svg" width="50%" height="auto" />
+<img align="right" alt="img" src="animation.svg" width="100%" height="auto" />
 
 <!-- ![Animation](animation.svg) -->
