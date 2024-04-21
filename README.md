@@ -22,7 +22,7 @@ const luisgrana2 = {
               Pastry Dough Quality"
 }
 ```
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex;">
 
   <img style="max-width: 34%; height: auto;" alt="img" src="img/giphy.gif">
 
