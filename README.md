@@ -24,8 +24,8 @@ const luisgrana2 = {
 ```
 <div style="display: flex;">
 
-  <img style="max-width: 34%; height: auto;" alt="img" src="img/giphy.gif">
+  <img style="min-width: 34%; height: auto;" alt="img" src="img/giphy.gif">
 
-  <img style="max-width: 64%; height: auto;" alt="img" src="animation.svg">
+  <img style="min-width: 64%; height: auto;" alt="img" src="animation.svg">
 
 </div>
