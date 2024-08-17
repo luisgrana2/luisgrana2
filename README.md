@@ -10,12 +10,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lgsgranados@gmail.com)
 
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
+<p><em>Working at </em> <a href="https://www.dronomy.es/">Dronomy</a>
 
 ## About me in Code:
 
 ```javascript
 const luisgrana2 = {
-  code: ["Python", "C++", "Arduino", "ROS", "ROS2", "HTML", "CSS"],
+  code: ["Python", "C++", "Arduino", "ROS", "ROS2", "MATLAB", "HTML", "CSS"],
   interests: ["Robotics", "Computer Vision", "SLAM", "Automatic Control"],
   challenge: "My current challenge is to develop innovative robotics projects using ROS2."
 }
