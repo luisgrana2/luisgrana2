@@ -1,6 +1,6 @@
 ![Banner](https://github.com/luisgrana2/luisgrana2/assets/143428761/1d5c651b-e895-413e-8e1f-5d84d5956df2)
 
-<img align="right" width=45% alt="img" src="img/giphy.gif">
+<img align="right" width=40% height= autoalt="img" src="img/giphy.gif">
 
 ### Hi, I'm Luis ‍👋🧑‍💻
 
