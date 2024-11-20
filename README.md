@@ -1,6 +1,5 @@
 ![Banner](https://github.com/luisgrana2/luisgrana2/assets/143428761/1d5c651b-e895-413e-8e1f-5d84d5956df2)
 
-<img align="right" style="width: 20%;" alt="img" src="img/giphy.gif">
 
 ### Hi, I'm Luis ‍👋🧑‍💻
 
@@ -12,6 +11,7 @@
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
 <p><em>Working at </em> <a href="https://www.dronomy.es/">Dronomy</a>
 
+<img align="right" style="width: 20%;" alt="img" src="img/giphy.gif">
 ## About me in Code:
 
 ```javascript
