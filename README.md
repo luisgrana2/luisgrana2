@@ -11,7 +11,7 @@
 <p><em>Robotics Engineer at </em> <a href="https://www.upc.edu/es">BarcelonaTech University</a><img src="img/robot-dance.gif" width="30"> 
 <p><em>Working at </em> <a href="https://www.dronomy.es/">Dronomy</a>
 
-<img align="right" width=45% alt="img" src="img/giphy.gif">
+<img align="right" width=20% alt="img" src="img/giphy.gif">
 ## About me in Code:
 
 ```javascript
